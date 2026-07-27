@@ -107,8 +107,8 @@ PAGE = """
 def resume():
     return render_template_string(
         PAGE,
-        name="Yash Patil",
-        contact=["Mumbai, MH", "8424022609", "c0derator@proton.me"],
+        name="Manomay Gadiyar",
+        contact=["Mumbai, MH", "9322222267", "manomay.gadiyar@gmail.com"],
     )
 
 
