@@ -49,8 +49,8 @@ PAGE = """
         <h1>{{ name|upper }}</h1>
         <div class="contact">
             {{ contact|join(' | ') }} |
-            <a href="https://linkedin.com/in/yashkpatil">LinkedIn</a> |
-            <a href="https://github.com/C0deRatoR">GitHub</a>
+            <a href="https://linkedin.com/in/manomaygadiyar">LinkedIn</a> |
+            <a href="https://github.com/TheyCallMePBJ">GitHub</a>
         </div>
     </header>
 
@@ -95,7 +95,7 @@ PAGE = """
 
     <section>
         <h2>CONTACT</h2>
-        <p>Email: <a href="mailto:c0derator@proton.me">c0derator@proton.me</a> | GitHub: <a href="https://github.com/C0deRatoR">C0deRatoR</a></p>
+        <p>Email: <a href="mailto:manomay.gadiyar@gmail.com">manomay.gadiyar@gmail.com</a> | GitHub: <a href="https://github.com/TheyCallMePBJ">TheyCallMePBJ</a></p>
     </section>
 </main>
 </body>
